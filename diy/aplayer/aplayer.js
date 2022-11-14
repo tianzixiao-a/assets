@@ -2151,4 +2151,3 @@ function() {
     }]).
 default
 });
-//# sourceMappingURL=APlayer.min.js.map
